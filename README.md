@@ -26,3 +26,7 @@
    `pip install -r requirements.txt`
 3. Запустите приложение:
    `streamlit run app.py`
+## 📈 Визуализация результатов
+Ниже приведен график сравнения реальных и предсказанных значений Band Gap:
+
+![График точности](band_gap_prediction.png)
